@@ -11,4 +11,4 @@ Welcome to my humble GitHub abode. I'm Matthew, a.k.a. Stixels, your friendly ne
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not taming wild codes, you'll probably find me gaming, or working on my next project.
 
-So, strap in and enjoy the journey through my portfolio or take a look at my latest project escapedirector.com. Happy coding! 💻
+So, strap in and enjoy the journey through my [portfolio](https://www.matthewmercado.dev/) or take a look at my latest project [Escape Directo](https://www.escapedirector.com/)https://www.escapedirector.com/. Happy coding! 💻
