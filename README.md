@@ -1,14 +1,13 @@
-### Hi there, digital wanderers! 👋
+### Hi there, fellow nerds! 👋
 
-Welcome to my humble GitHub abode. I'm Matthew, a.k.a. Stixels, your friendly neighborhood nerd and software engineer! ✨ 
+Welcome to my humble GitHub abode. I'm Matthew, a.k.a. Stixels, an enthusiastic nerd and software engineer!
 
-- 🔭 I'm currently crafting magic with JavaScript, React, and navigating through NodeJS. I’ve been known to flirt with Typescript, NextJS, and Tailwind as well!
-- 🌱 I’m endlessly learning and exploring the infinite universe of coding. My current obsession? Everything... Angular, GraphQL, PostgreSQL, etc
-- 👯 Always up for a good collaboration, especially if it involves creative problem-solving or the chance to learn something new.
-- 🤔 Seeking help with my job search, I am looking for Software Engineer, Frontend, or Fullstack developer positions.
+- 🔭 I'm currently working on a MERN project, Escape Director, a web app for escape rooms to control and manage their escape rooms. I’ve also been dabbling with Typescript, NextJS, Tailwind, PostgreSQL, and many others.
+- 🌱 I’m a recent Computer Science graduate summa cum laude that is passionate about solving problems.
+- 👯 Always up for a good collaboration, especially if it involves creative problem-solving and/or the chance to learn something new.
+- 🤔 I am currently looking for Software Engineer, Frontend, or Fullstack developer positions.
 - 💬 Ask me about my latest projects, my journey into the world of web development, or my opinion on the latest games.
 - 📫 You can reach me via matthewmercado1999@gmail.com — always excited to meet fellow code enthusiasts!
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not taming wild codes, you'll probably find me gaming, or working on my next project.
 
 So, strap in and enjoy the journey through my [portfolio](https://www.matthewmercado.dev/) or take a look at my latest project [Escape Director](https://www.escapedirector.com/). Happy coding! 💻
