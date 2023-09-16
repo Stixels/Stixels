@@ -1,6 +1,6 @@
 ### Hi there, fellow nerds! 👋
 
-Welcome to my humble GitHub abode. I'm Matthew, a.k.a. Stixels, an enthusiastic nerd and software engineer!
+Welcome to my humble GitHub abode. I'm Matthew, a.k.a. Stixels, a tech enthusiast and software engineer!
 
 - 🔭 I'm currently working on a MERN project, Escape Director, a web app for escape rooms to control and manage their escape rooms. I’ve also been dabbling with Typescript, NextJS, Tailwind, PostgreSQL, and many others.
 - 🌱 I’m a recent Computer Science graduate summa cum laude that is passionate about solving problems.
