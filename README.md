@@ -2,7 +2,7 @@
 
 I’m a software engineer who likes turning messy, real-world problems into thoughtful products.
 
-I run [Escape Director](https://www.escapedirector.com), software for escape room owners and Game Masters, and [Waiver Director](https://github.com/Stixels/waiver-director). These days a lot of that code gets written by coding agents while I steer, review, and argue with them, so I spend a lot of time tinkering with how I work with AI.
+I run [Escape Director](https://www.escapedirector.com), software for escape room owners and Game Masters, [Waiver Director](https://github.com/Stixels/waiver-director), as well as some ML projects. These days a lot of that code gets written by coding agents while I steer, review, and argue with them, so I spend a lot of time tinkering with how I work with AI.
 
 ## Stuff I’m tinkering with
 
