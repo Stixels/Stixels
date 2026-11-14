@@ -6,7 +6,7 @@ I run [Escape Director](https://www.escapedirector.com), software for escape roo
 
 ## Stuff I’m tinkering with
 
-- **[wicket](https://github.com/Stixels/wicket):** a drop-in help chat that answers from your docs and files its own bug reports. It started as Escape Director’s support widget.
+- **[wicket](https://github.com/Stixels/wicket):** a drop-in help chat that answers from your docs and files its own bug reports. It started as Escape Director’s support widget. It’s also an MCP server, so Claude Code can search the docs and file bugs too. [Try the demo](https://wicketchat.com/demo).
 - **[skills](https://github.com/Stixels/skills):** the agent skills I use every day with Claude Code and Codex, like getting two models to review each other’s work. `npx skills add Stixels/skills`
 - **[Escape Director Device SDK](https://github.com/directorhq/escape-director-device-sdk):** connects physical escape room props to a live game.
 
