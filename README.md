@@ -7,6 +7,7 @@ I run [Escape Director](https://www.escapedirector.com), software for escape roo
 ## Stuff I’m tinkering with
 
 - **[wicket](https://github.com/Stixels/wicket):** a drop-in help chat that answers from your docs and files its own bug reports. It started as Escape Director’s support widget. It’s also an MCP server, so Claude Code can search the docs and file bugs too. [Try the demo](https://wicketchat.com/demo).
+- **[yomibench](https://github.com/Stixels/yomibench):** a bot arena and training harness for *Your Only Move Is HUSTLE*, made with its developer's permission. Its bot, HustleBot, solves each simultaneous turn as a payoff table and learns from games against itself, AlphaZero style. Every generation has to beat the last in a test fixed before any game. [See the leaderboard](https://stixels.github.io/yomibench/) or [play against it](https://stixels.github.io/yomibench/play/).
 - **[skills](https://github.com/Stixels/skills):** the agent skills I use every day with Claude Code and Codex, like getting two models to review each other’s work. `npx skills add Stixels/skills`
 - **[Escape Director Device SDK](https://github.com/directorhq/escape-director-device-sdk):** connects physical escape room props to a live game.
 
